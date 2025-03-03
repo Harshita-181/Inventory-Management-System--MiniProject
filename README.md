@@ -1,4 +1,4 @@
-# Inventory-Management-System--MiniProject
+# Inventory-Management-System-MiniProject
 
 Instructions: How to Run?
 
